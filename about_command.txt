@@ -1,0 +1,6 @@
+python3 answer.py < input/a.txt
+↑
+example
+
+実行はsource command.txt
+実行場所を間違えないように注意

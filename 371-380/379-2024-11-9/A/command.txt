@@ -1,0 +1,2 @@
+python3 answer.py < input/first_case.txt
+python3 answer.py < input/second_case.txt

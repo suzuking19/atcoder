@@ -1,0 +1,4 @@
+python3 answer.py < input/first_case.txt
+python3 answer.py < input/second_case.txt
+python3 answer.py < input/third_case.txt
+python3 answer.py < input/forth_case.txt
